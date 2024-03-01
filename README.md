@@ -1,5 +1,5 @@
 <h3 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=45&duration=4000&pause=500&color=B8860B&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Mohammed+Jasir+PP" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=45&duration=4000&pause=500&color=B8860B&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Jasir+PP" alt="Typing SVG" />
 </h3>
 <div align="center">
 <br/>
@@ -16,8 +16,8 @@
 <h3 align="center">⚒️ Skills: Languages, Frameworks, Tools ⚒️</h3>
 
 <div align="center"><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" /> <br/>
-    <img src="https://skillicons.dev/icons?i=git,postman,figma,bootstrap,jquery,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" /> <br/>
+    <img src="https://skillicons.dev/icons?i=git,postman,figma,bootstrap" />
 </div>
 <br/>
 </div>
