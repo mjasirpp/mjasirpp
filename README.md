@@ -21,3 +21,6 @@
 </div>
 <br/>
 </div>
+
+![Snake animation]
+(https://github.com/mjasirpp/mjasirpp/blob/output/github-contribution-grid-snake.svg)
