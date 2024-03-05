@@ -5,20 +5,30 @@
 <br/>
 
 <h3>FULL STACK WEB DEVELOPER | ME(A)RN</h3>
+
  <br/><br/> 
+ 
   <a href="https://www.linkedin.com/in/mjasirpp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/mj_jasir" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
+  <a href = "mailto: mjasirpp@gmail.com">
+     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
  <br/><br/><br/>
+ 
 <h3 align="center">⚒️ Skills: Languages, Frameworks, Tools ⚒️</h3>
-
 <div align="center"><br/>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react" /> <br/>
     <img src="https://skillicons.dev/icons?i=git,postman,figma,bootstrap" />
 </div>
 <br/>
 </div>
+
+<div> 
+  ![Snake animation](https://github.com/mjasirpp/mjasirpp/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 
