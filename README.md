@@ -26,8 +26,6 @@
 </div>
 <br/>
 
-<div align="center"><br/>
-   ![Snake animation](https://raw.githubusercontent.com/mjasirpp/mjasirpp/output/github-contribution-grid-snake-dark.svg)
-</div>
+
 
 </div>
