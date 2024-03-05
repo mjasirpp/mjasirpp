@@ -25,4 +25,9 @@
     <img src="https://skillicons.dev/icons?i=git,postman,figma,bootstrap" />
 </div>
 <br/>
+
+<div align="center"><br/>
+   ![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+</div>
+
 </div>
