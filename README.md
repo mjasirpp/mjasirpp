@@ -23,17 +23,10 @@
     <h3 align="center">👨‍💻 A little bit about me</h3>
     <p style="color: green;">Name : <span style="color: blue;">Mohammed Jasir PP</span> </p>
     <p style="color: green;">Location : <span style="color: blue;">Kerala, India</span> </p>
-    <p style="color: green; align-items: start;">Education
+    <p style="color: green; align-items: start;">Education : <span style="color: blue;"> ME(A)RN Stack Development </span> 
     <br>
-    <span style="color: blue;">
-       [ 
-       <br>
-       ME(A)RN Stack Development
-       <br>
-       Bachelor of Computer Application 
-       <br>
-       ]
-    </span></p>
+       Bachelor of Computer Application
+    </p>
  </div>
  
  
