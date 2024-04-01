@@ -18,6 +18,24 @@
      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
  <br/><br/><br/>
+
+ <div>
+    <h3 align="center">👨‍💻 A little bit about me</h3>
+    <p style="color: green;">Name : <span style="color: blue;">Mohammed Jasir PP</span> </p>
+    <p style="color: green;">Location : <span style="color: blue;">Kerala, India</span> </p>
+    <p style="color: green;">Education
+    <br>
+    <span style="color: blue;">
+       [ 
+       <br>
+       ME(A)RN Stack Development
+       <br>
+       Bachelor of Computer Application 
+       <br>
+       ]
+    </span></p>
+ </div>
+ 
  
 <h3 align="center">⚒️ Skills: Languages, Frameworks, Tools ⚒️</h3>
 <div align="center"><br/>
