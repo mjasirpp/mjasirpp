@@ -23,7 +23,7 @@
     <h3 align="center">👨‍💻 A little bit about me</h3>
     <p style="color: green;">Name : <span style="color: blue;">Mohammed Jasir PP</span> </p>
     <p style="color: green;">Location : <span style="color: blue;">Kerala, India</span> </p>
-    <p style="color: green;">Education
+    <p style="color: green; align-items: start;">Education
     <br>
     <span style="color: blue;">
        [ 
