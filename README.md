@@ -4,7 +4,7 @@
 <div align="center">
 <br/>
 
-<h3>FULL STACK WEB DEVELOPER | ME(A)RN</h3>
+<h3>FULL STACK WEB DEVELOPER | MERN</h3>
 
  <br/><br/> 
  
