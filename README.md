@@ -1,6 +1,7 @@
 <h3 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=45&duration=4000&pause=500&color=B8860B&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Jasir+PP" alt="Typing SVG" />
 </h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mjasirpp.mjasirpp" />
 <div align="center">
 <br/>
 
